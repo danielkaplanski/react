@@ -1,3 +1,7 @@
+Daniel Kapłański 20450,
+email: 20450@student.ans-elblag.pl
+lab7 - https://danielkaplanski.github.io/react/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
